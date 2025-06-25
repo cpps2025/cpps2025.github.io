@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    // 自动跳转到根路径，同时保留访问路径信息
+    const path = location.pathname.replace('/cpps2025.github.io', '');
+    location.replace(`/cpps2025.github.io/?redirect=${path}${location.search}${location.hash}`);
+  </script>
+</body>
+</html>
