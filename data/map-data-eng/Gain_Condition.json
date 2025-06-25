@@ -1,0 +1,1350 @@
+[
+  {
+    "name": "Qitaihe",
+    "value": 0.246069909361852
+  },
+  {
+    "name": "Sanya",
+    "value": -0.111079540741498
+  },
+  {
+    "name": "Sanming",
+    "value": -0.0993706650489677
+  },
+  {
+    "name": "Sansha",
+    "value": -0.0796919977560741
+  },
+  {
+    "name": "Sanmenxia",
+    "value": -0.0722056939770126
+  },
+  {
+    "name": "Shanghai",
+    "value": -0.0048290962138416
+  },
+  {
+    "name": "Shangrao",
+    "value": -0.074329123075889
+  },
+  {
+    "name": "Dongguan",
+    "value": 0.101507920515788
+  },
+  {
+    "name": "Dongying",
+    "value": -0.134081657286964
+  },
+  {
+    "name": "Zhongwei",
+    "value": -0.0532689532732292
+  },
+  {
+    "name": "Zhongshan",
+    "value": 0.0818215748912186
+  },
+  {
+    "name": "Linxia Hui Autonomous Prefecture",
+    "value": 0.0301983730596013
+  },
+  {
+    "name": "Linfen",
+    "value": -0.307838754536833
+  },
+  {
+    "name": "Linyi",
+    "value": 0.0330676342775725
+  },
+  {
+    "name": "Lincang",
+    "value": -0.0539422791685761
+  },
+  {
+    "name": "Dandong",
+    "value": 0.207923606374813
+  },
+  {
+    "name": "Lishui",
+    "value": 0.287155377686322
+  },
+  {
+    "name": "Lijiang",
+    "value": -0.0073837738756001
+  },
+  {
+    "name": "Ulanqab",
+    "value": 0.150967505608939
+  },
+  {
+    "name": "Wuhai",
+    "value": -0.0739938247205759
+  },
+  {
+    "name": "Urumqi",
+    "value": -0.247352174989863
+  },
+  {
+    "name": "Leshan",
+    "value": -0.013549777211356
+  },
+  {
+    "name": "Jiujiang",
+    "value": -0.0800590580147017
+  },
+  {
+    "name": "Yunfu",
+    "value": -0.179837596267747
+  },
+  {
+    "name": "Bozhou",
+    "value": -0.0253217781396858
+  },
+  {
+    "name": "Yichun",
+    "value": 0.212308238902058
+  },
+  {
+    "name": " Ili Kazakh Autonomous Prefecture",
+    "value": -0.080652669803006
+  },
+  {
+    "name": "Foshan",
+    "value": 0.345797847925082
+  },
+  {
+    "name": "Jiamusi",
+    "value": 0.263994287133234
+  },
+  {
+    "name": "Baoding",
+    "value": -0.0539422791685762
+  },
+  {
+    "name": "Baoshan",
+    "value": 0.318182498993291
+  },
+  {
+    "name": "Xinyang",
+    "value": 0.30144102508832
+  },
+  {
+    "name": "Danzhou",
+    "value": 0.046367436275908
+  },
+  {
+    "name": "Kizilsu Kirghiz Autonomous Prefecture",
+    "value": -0.117710202198514
+  },
+  {
+    "name": "Karamay",
+    "value": -0.271873239904706
+  },
+  {
+    "name": "Lu'an",
+    "value": -0.0313660579716419
+  },
+  {
+    "name": "Liupanshui",
+    "value": 0.0376274021049305
+  },
+  {
+    "name": " Lanzhou",
+    "value": -0.226603474608711
+  },
+  {
+    "name": "Hinggan League",
+    "value": 0.0971844920985876
+  },
+  {
+    "name": "Neijiang",
+    "value": -0.312305483271666
+  },
+  {
+    "name": "Liangshan Yi Autonomous Prefecture",
+    "value": -0.207468127575465
+  },
+  {
+    "name": "Baotou",
+    "value": 0.0476626461590767
+  },
+  {
+    "name": "Beijing",
+    "value": 0.119538157397341
+  },
+  {
+    "name": "Beihai",
+    "value": 0.0845738713661787
+  },
+  {
+    "name": "Shiyan",
+    "value": -0.153208780210498
+  },
+  {
+    "name": "Nanjing",
+    "value": -0.0609296458748984
+  },
+  {
+    "name": "Nanchong",
+    "value": -0.153779346239464
+  },
+  {
+    "name": "Nanning",
+    "value": 0.314178684456865
+  },
+  {
+    "name": "Nanping",
+    "value": 0.339514558079292
+  },
+  {
+    "name": "Nanchang",
+    "value": -0.0072258214508233
+  },
+  {
+    "name": "Nantong",
+    "value": 0.0266600689032859
+  },
+  {
+    "name": "Nanyang",
+    "value": 0.0556961908494996
+  },
+  {
+    "name": "Bortala Mongol Autonomous Prefecture",
+    "value": -0.0908457871177486
+  },
+  {
+    "name": "Xiamen",
+    "value": 0.151911246511693
+  },
+  {
+    "name": "Shuangyashan",
+    "value": 0.0507374533613961
+  },
+  {
+    "name": "Taizhou",
+    "value": 0.0625364994922154
+  },
+  {
+    "name": "Hefei",
+    "value": 0.146777792706451
+  },
+  {
+    "name": "Ji'an",
+    "value": -0.0522247898988205
+  },
+  {
+    "name": "Jilin",
+    "value": -0.256453805174551
+  },
+  {
+    "name": "Turpan",
+    "value": -0.294249805347778
+  },
+  {
+    "name": "Lüliang",
+    "value": 0.0340533524171567
+  },
+  {
+    "name": "Wuzhong",
+    "value": 0.175960946270882
+  },
+  {
+    "name": "Zhoukou",
+    "value": 0.282661777027279
+  },
+  {
+    "name": "Hulunbuir",
+    "value": 0.239894107802199
+  },
+  {
+    "name": "Hohhot",
+    "value": 0.11598062736204
+  },
+  {
+    "name": "Hotan Prefecture",
+    "value": -0.0003375935893441
+  },
+  {
+    "name": "Xianning",
+    "value": 0.016861923327622
+  },
+  {
+    "name": "Xianyang",
+    "value": 0.129397760900189
+  },
+  {
+    "name": "Kumul",
+    "value": -0.0390598558036472
+  },
+  {
+    "name": "Harbin",
+    "value": 0.0493928327197078
+  },
+  {
+    "name": "Tangshan",
+    "value": 0.0313504684730477
+  },
+  {
+    "name": "Shangqiu",
+    "value": 0.143001814088058
+  },
+  {
+    "name": "Shangluo",
+    "value": 0.298080420400044
+  },
+  {
+    "name": "Kashgar Prefecture",
+    "value": -0.0013987504759091
+  },
+  {
+    "name": "Jiaxing",
+    "value": -0.244083899930811
+  },
+  {
+    "name": "Jiayuguan",
+    "value": 0.100555648135965
+  },
+  {
+    "name": "Siping",
+    "value": 0.15776058146794
+  },
+  {
+    "name": "Guyuan",
+    "value": 0.136826789945519
+  },
+  {
+    "name": "Tacheng Prefecture",
+    "value": -0.198094651464153
+  },
+  {
+    "name": " Daxing'anling Prefecture",
+    "value": 0.705366012767568
+  },
+  {
+    "name": "Datong",
+    "value": -0.237836361624793
+  },
+  {
+    "name": "Daqing",
+    "value": 0.178601557233035
+  },
+  {
+    "name": "Dali Bai Autonomous Prefecture",
+    "value": -0.32094632892739
+  },
+  {
+    "name": "Dalian",
+    "value": 0.0855712281054828
+  },
+  {
+    "name": "Tianshui",
+    "value": -0.148946280985976
+  },
+  {
+    "name": "Tianjin",
+    "value": 0.155300043988721
+  },
+  {
+    "name": "Taiyuan",
+    "value": 0.0421343112918929
+  },
+  {
+    "name": "Weihai",
+    "value": -0.0495557017612825
+  },
+  {
+    "name": "Loudi",
+    "value": -0.206622549959088
+  },
+  {
+    "name": "Xiaogan",
+    "value": -0.0678750464148168
+  },
+  {
+    "name": "Ningde",
+    "value": 0.0535623572630871
+  },
+  {
+    "name": "Ningbo",
+    "value": 0.068501706863511
+  },
+  {
+    "name": "Anqing",
+    "value": 0.0892840178602914
+  },
+  {
+    "name": "Ankang",
+    "value": 0.0335361369398461
+  },
+  {
+    "name": "Anyang",
+    "value": 0.153095889697518
+  },
+  {
+    "name": "Anshun",
+    "value": 0.0100962944663531
+  },
+  {
+    "name": "Dingxi",
+    "value": 0.075209549040132
+  },
+  {
+    "name": "Yibin",
+    "value": -0.0599248254495886
+  },
+  {
+    "name": "Yichang",
+    "value": 0.0539807431501444
+  },
+  {
+    "name": "Yichun",
+    "value": 0.0181431990391792
+  },
+  {
+    "name": "Baoji",
+    "value": 0.215050095775763
+  },
+  {
+    "name": "Xuancheng",
+    "value": 0.033978054503716
+  },
+  {
+    "name": "Suzhou",
+    "value": -0.0054056300469621
+  },
+  {
+    "name": "Suqian",
+    "value": -0.17781444020965
+  },
+  {
+    "name": "Shannan",
+    "value": 0.326307398794462
+  },
+  {
+    "name": "Yueyang",
+    "value": -0.271443686869631
+  },
+  {
+    "name": "Chongzuo",
+    "value": 0.250236630935184
+  },
+  {
+    "name": "Bazhong",
+    "value": 0.133704364488538
+  },
+  {
+    "name": "Bayannur",
+    "value": 0.231346030455842
+  },
+  {
+    "name": "Bayingolin Mongol Autonomous Prefecture",
+    "value": -0.114905761419298
+  },
+  {
+    "name": "Changzhou",
+    "value": 0.107466176761827
+  },
+  {
+    "name": "Changde",
+    "value": 0.135833604244272
+  },
+  {
+    "name": "Pingliang",
+    "value": -0.145476313777035
+  },
+  {
+    "name": "Pingdingshan",
+    "value": -0.232702907819551
+  },
+  {
+    "name": "Guangyuan",
+    "value": -0.108378986366517
+  },
+  {
+    "name": "Guang'an",
+    "value": 0.0182019713184695
+  },
+  {
+    "name": "Guangzhou",
+    "value": 0.12107516119708
+  },
+  {
+    "name": "Qingyang",
+    "value": 0.114162681727643
+  },
+  {
+    "name": " Langfang",
+    "value": -0.0871557524273679
+  },
+  {
+    "name": "Yan'an",
+    "value": 0.194074013765418
+  },
+  {
+    "name": "Yanbian Korean Autonomous Prefecture",
+    "value": -0.0105879876810936
+  },
+  {
+    "name": "Kaifeng",
+    "value": 0.221410313413437
+  },
+  {
+    "name": "Zhangjiakou",
+    "value": 0.0209372983899695
+  },
+  {
+    "name": "Zhangjiajie",
+    "value": -0.35290012474346
+  },
+  {
+    "name": "Zhangye",
+    "value": -0.0716230250322803
+  },
+  {
+    "name": "Xuzhou",
+    "value": -0.166131192638825
+  },
+  {
+    "name": "Dehong Dai and Jingpo Autonomous Prefecture",
+    "value": -0.130618255686375
+  },
+  {
+    "name": "Dezhou",
+    "value": 0.0985438887912843
+  },
+  {
+    "name": "Deyang",
+    "value": -0.0745080332723053
+  },
+  {
+    "name": "Xinzhou",
+    "value": -0.0151198852026135
+  },
+  {
+    "name": "Huaihua",
+    "value": -0.0862969459045024
+  },
+  {
+    "name": "Nujiang Lisu Autonomous Prefecture",
+    "value": -0.0960951207110162
+  },
+  {
+    "name": " Enshi Tujia and Miao Autonomous Prefecture",
+    "value": -0.318265214556318
+  },
+  {
+    "name": "Huizhou",
+    "value": 0.0782471516943676
+  },
+  {
+    "name": "Chengdu",
+    "value": 0.022103939600045
+  },
+  {
+    "name": "Yangzhou",
+    "value": 0.0312825798301775
+  },
+  {
+    "name": "Chengde",
+    "value": -0.156472496303776
+  },
+  {
+    "name": "Fuzhou",
+    "value": -0.0037963529730427
+  },
+  {
+    "name": " Fushun",
+    "value": 0.300000889446978
+  },
+  {
+    "name": "Lhasa",
+    "value": 0.0048996905714394
+  },
+  {
+    "name": "Jieyang",
+    "value": -0.119766924104216
+  },
+  {
+    "name": "Panzhihua",
+    "value": -0.111373017301129
+  },
+  {
+    "name": "Wenshan Zhuang and Miao Autonomous Prefecture",
+    "value": -0.119256211264105
+  },
+  {
+    "name": "Xinxiang",
+    "value": 0.14845156349166
+  },
+  {
+    "name": "Xinyu",
+    "value": -0.116888895260125
+  },
+  {
+    "name": "Wuxi",
+    "value": 0.142711653209204
+  },
+  {
+    "name": "Shigatse",
+    "value": 0.0533517290691749
+  },
+  {
+    "name": "Rizhao",
+    "value": -0.0616806046574356
+  },
+  {
+    "name": "Kunming",
+    "value": 0.124826050718447
+  },
+  {
+    "name": "Changji Hui Autonomous Prefecture",
+    "value": -0.0625091701226659
+  },
+  {
+    "name": "Chamdo",
+    "value": 0.109334816788304
+  },
+  {
+    "name": "Zhaotong",
+    "value": 0.0070372825065119
+  },
+  {
+    "name": " Jinzhong",
+    "value": -0.2773280468014
+  },
+  {
+    "name": "Jincheng",
+    "value": -0.0372801370524359
+  },
+  {
+    "name": "Pu'er",
+    "value": -0.119693212972654
+  },
+  {
+    "name": "Jingdezhen",
+    "value": -0.228398019479538
+  },
+  {
+    "name": "Qujing",
+    "value": 0.28425803109843
+  },
+  {
+    "name": "Shuozhou",
+    "value": -0.246162573284516
+  },
+  {
+    "name": "Chaoyang",
+    "value": 0.198881032559455
+  },
+  {
+    "name": "Benxi",
+    "value": 0.137926079957707
+  },
+  {
+    "name": "Laibin",
+    "value": 0.395290837847516
+  },
+  {
+    "name": "Hangzhou",
+    "value": 0.136116004034024
+  },
+  {
+    "name": "Songyuan",
+    "value": -0.0287968575944937
+  },
+  {
+    "name": "Nyingchi",
+    "value": -0.0775496990914164
+  },
+  {
+    "name": "Golog Tibetan Autonomous Prefecture",
+    "value": -0.437251297905366
+  },
+  {
+    "name": "Zaozhuang",
+    "value": -0.254751825604466
+  },
+  {
+    "name": " Liuzhou",
+    "value": 0.0429815911054706
+  },
+  {
+    "name": "Zhuzhou",
+    "value": 0.0562936179415175
+  },
+  {
+    "name": "Guilin",
+    "value": 0.120494776939583
+  },
+  {
+    "name": "Meizhou",
+    "value": 0.0897040835856279
+  },
+  {
+    "name": "Wuzhou",
+    "value": 0.097794591886497
+  },
+  {
+    "name": "Chuxiong Yi Autonomous Prefecture",
+    "value": 0.0572924789896286
+  },
+  {
+    "name": "Yulin",
+    "value": 0.0926896173820856
+  },
+  {
+    "name": "Wuwei",
+    "value": -0.317539986495663
+  },
+  {
+    "name": "Wuhan",
+    "value": 0.0407194202361136
+  },
+  {
+    "name": "Bijie",
+    "value": -0.0091317807097958
+  },
+  {
+    "name": "Yongzhou",
+    "value": -0.0671501840153689
+  },
+  {
+    "name": " Hanzhong",
+    "value": -0.0183088165893213
+  },
+  {
+    "name": "Shantou",
+    "value": 0.0437454260246147
+  },
+  {
+    "name": "Shanwei",
+    "value": 0.106269088871473
+  },
+  {
+    "name": "Jiangmen",
+    "value": 0.0106922058871019
+  },
+  {
+    "name": "Chizhou",
+    "value": 0.147476245996191
+  },
+  {
+    "name": "Shenyang",
+    "value": -0.0111494268960742
+  },
+  {
+    "name": "Cangzhou",
+    "value": 0.0374808626098486
+  },
+  {
+    "name": "Hechi",
+    "value": -0.026700796302162
+  },
+  {
+    "name": "Heyuan",
+    "value": 0.140168209694729
+  },
+  {
+    "name": " Quanzhou",
+    "value": 0.189643265324663
+  },
+  {
+    "name": "Tai'an",
+    "value": -0.0217601369011562
+  },
+  {
+    "name": "Taizhou",
+    "value": 0.075562511958575
+  },
+  {
+    "name": "Luzhou",
+    "value": -0.108710254369848
+  },
+  {
+    "name": "Luoyang",
+    "value": 0.123479810051889
+  },
+  {
+    "name": "Jinan",
+    "value": 0.0425291923538344
+  },
+  {
+    "name": "Jining",
+    "value": -0.077019046129145
+  },
+  {
+    "name": "Haidong",
+    "value": -0.323130671004207
+  },
+  {
+    "name": "Haibei Tibetan Autonomous Prefecture",
+    "value": -0.264838056308602
+  },
+  {
+    "name": "Hainan Tibetan Autonomous Prefecture",
+    "value": -0.506654925275523
+  },
+  {
+    "name": "Haikou",
+    "value": -0.158266070012695
+  },
+  {
+    "name": "Haixi Mongol and Tibetan Autonomous Prefecture",
+    "value": -0.473940597976303
+  },
+  {
+    "name": " Zibo",
+    "value": -0.207035638793338
+  },
+  {
+    "name": "Huaibei",
+    "value": 0.204430427749943
+  },
+  {
+    "name": "Huainan",
+    "value": 0.378181652491348
+  },
+  {
+    "name": "Huai'an",
+    "value": -0.082010219489326
+  },
+  {
+    "name": "Shenzhen",
+    "value": 0.230939635376692
+  },
+  {
+    "name": "Qingyuan",
+    "value": -0.127008296013749
+  },
+  {
+    "name": "Wenzhou",
+    "value": -0.0462158253936108
+  },
+  {
+    "name": "Weinan",
+    "value": 0.116724711352272
+  },
+  {
+    "name": "Huzhou",
+    "value": 0.181177347958612
+  },
+  {
+    "name": "Xiangtan",
+    "value": -0.0566046467881878
+  },
+  {
+    "name": "Xiangxi Tujia and Miao Autonomous Prefecture",
+    "value": -0.0421999878411235
+  },
+  {
+    "name": "Zhanjiang",
+    "value": -0.0123400127652396
+  },
+  {
+    "name": "Chuzhou",
+    "value": 0.0317298475156864
+  },
+  {
+    "name": "Binzhou",
+    "value": 0.263389207844473
+  },
+  {
+    "name": "Luohe",
+    "value": -0.018648997560048
+  },
+  {
+    "name": "Zhangzhou",
+    "value": -0.105904830705904
+  },
+  {
+    "name": "Weifang",
+    "value": -0.0010244206541804
+  },
+  {
+    "name": "Chaozhou",
+    "value": -0.0857229418303005
+  },
+  {
+    "name": "Puyang",
+    "value": 0.0970832561815495
+  },
+  {
+    "name": "Yantai",
+    "value": -0.185589921059956
+  },
+  {
+    "name": "Jiaozuo",
+    "value": 0.0362450762256639
+  },
+  {
+    "name": "Mudanjiang",
+    "value": 0.127212752357445
+  },
+  {
+    "name": "Yulin",
+    "value": -0.154941163470651
+  },
+  {
+    "name": "Yushu Tibetan Autonomous Prefecture",
+    "value": -0.416440373167244
+  },
+  {
+    "name": "Yuxi",
+    "value": 0.35634822814743
+  },
+  {
+    "name": "Zhuhai",
+    "value": 0.0967254566904487
+  },
+  {
+    "name": "Gannan Tibetan Autonomous Prefecture",
+    "value": 0.0753679254982641
+  },
+  {
+    "name": "Garzê Tibetan Autonomous Prefecture",
+    "value": -0.199802817317013
+  },
+  {
+    "name": "Baicheng",
+    "value": -0.221514611064535
+  },
+  {
+    "name": "Baishan",
+    "value": -0.126248238600886
+  },
+  {
+    "name": "Baiyin",
+    "value": -0.143291305234291
+  },
+  {
+    "name": "Baise",
+    "value": -0.0132301480845645
+  },
+  {
+    "name": "Yiyang",
+    "value": -0.0940336415266154
+  },
+  {
+    "name": "Yancheng",
+    "value": -0.186958598217686
+  },
+  {
+    "name": " Panjin",
+    "value": -0.0051987653328561
+  },
+  {
+    "name": "Meishan",
+    "value": -0.139645936551587
+  },
+  {
+    "name": "Shizuishan",
+    "value": -0.0156809990063534
+  },
+  {
+    "name": "Shijiazhuang",
+    "value": 0.0504196339369975
+  },
+  {
+    "name": " Fuzhou",
+    "value": 0.0066570514126687
+  },
+  {
+    "name": "Qinhuangdao",
+    "value": -0.1402720207025
+  },
+  {
+    "name": "Honghe Hani and Yi Autonomous Prefecture",
+    "value": 0.0026672654210226
+  },
+  {
+    "name": "Shaoxing",
+    "value": 0.107045932770339
+  },
+  {
+    "name": "Suihua",
+    "value": 0.36756369205931
+  },
+  {
+    "name": "Mianyang",
+    "value": 0.0441087166016008
+  },
+  {
+    "name": "Liaocheng",
+    "value": 0.0830290352333369
+  },
+  {
+    "name": "Zhaoqing",
+    "value": 0.0567119089964271
+  },
+  {
+    "name": "Zigong",
+    "value": -0.0845005432695184
+  },
+  {
+    "name": "Zhoushan",
+    "value": 0.184226331699505
+  },
+  {
+    "name": "Wuhu",
+    "value": 0.0427533140376391
+  },
+  {
+    "name": "Suzhou",
+    "value": 0.233651626333631
+  },
+  {
+    "name": "Maoming",
+    "value": -0.0360521389725698
+  },
+  {
+    "name": "Jingzhou",
+    "value": 0.0760940826188813
+  },
+  {
+    "name": "Jingmen",
+    "value": 0.111291540856433
+  },
+  {
+    "name": "Putian",
+    "value": -0.0195006394308181
+  },
+  {
+    "name": "Heze",
+    "value": 0.240388320966937
+  },
+  {
+    "name": "Pingxiang",
+    "value": -0.171106080648593
+  },
+  {
+    "name": "Yingkou",
+    "value": 0.0012672160600926
+  },
+  {
+    "name": "Huludao",
+    "value": 0.240396194871596
+  },
+  {
+    "name": "Bengbu",
+    "value": 0.256529825516939
+  },
+  {
+    "name": "Hengshui",
+    "value": 0.005468829244409
+  },
+  {
+    "name": "Hengyang",
+    "value": -0.0409534505777617
+  },
+  {
+    "name": "Quzhou",
+    "value": 0.0460779935858303
+  },
+  {
+    "name": "Xiangyang",
+    "value": 0.077715541138713
+  },
+  {
+    "name": "Xishuangbanna Dai Autonomous Prefecture",
+    "value": -0.195731510260153
+  },
+  {
+    "name": "Xining",
+    "value": -0.559410574996054
+  },
+  {
+    "name": "Xi'an",
+    "value": 0.16567291189973
+  },
+  {
+    "name": "Xuchang",
+    "value": 0.280455546758215
+  },
+  {
+    "name": "Guigang",
+    "value": -0.0370998900569215
+  },
+  {
+    "name": "Guiyang",
+    "value": 0.0328203833108934
+  },
+  {
+    "name": "Hezhou",
+    "value": -0.0516576620573508
+  },
+  {
+    "name": "Ziyang",
+    "value": 0.0835871915503605
+  },
+  {
+    "name": "Ganzhou",
+    "value": 0.0632254661498373
+  },
+  {
+    "name": "Chifeng",
+    "value": -0.13629927789751
+  },
+  {
+    "name": "Liaoyuan",
+    "value": 0.149505589515916
+  },
+  {
+    "name": "Liaoyang",
+    "value": -0.0676426239279082
+  },
+  {
+    "name": "Dazhou",
+    "value": -0.153008948090654
+  },
+  {
+    "name": "Yuncheng",
+    "value": -0.192819920563436
+  },
+  {
+    "name": " Lianyungang",
+    "value": -0.183932464129334
+  },
+  {
+    "name": "Diqing Tibetan Autonomous Prefecture",
+    "value": -0.194857506843055
+  },
+  {
+    "name": "Tonghua",
+    "value": -0.0497701293044618
+  },
+  {
+    "name": "Tongliao",
+    "value": -0.207119260665279
+  },
+  {
+    "name": "Suining",
+    "value": -0.302199559546604
+  },
+  {
+    "name": "Zunyi",
+    "value": 0.205427404688509
+  },
+  {
+    "name": " Xingtai",
+    "value": -0.203041357021334
+  },
+  {
+    "name": "Nagqu",
+    "value": 0.209749018670279
+  },
+  {
+    "name": "Handan",
+    "value": 0.0723013606788155
+  },
+  {
+    "name": "Shaoyang",
+    "value": -0.0242679307968055
+  },
+  {
+    "name": "Zhengzhou",
+    "value": 0.0683892009459947
+  },
+  {
+    "name": "Chenzhou",
+    "value": -0.214773627262452
+  },
+  {
+    "name": "Ordos",
+    "value": -0.11147442180344
+  },
+  {
+    "name": "Ezhou",
+    "value": 0.153381674490095
+  },
+  {
+    "name": "Jiuquan",
+    "value": -0.0135017977952839
+  },
+  {
+    "name": " Chongqing",
+    "value": -0.0076585354288792
+  },
+  {
+    "name": "Jinhua",
+    "value": 0.0927120997850979
+  },
+  {
+    "name": "Jinchang",
+    "value": -0.255575038348489
+  },
+  {
+    "name": "Qinzhou",
+    "value": 0.286821199909197
+  },
+  {
+    "name": "Tieling",
+    "value": -0.100345955512355
+  },
+  {
+    "name": "Tongren",
+    "value": 0.0288873679339535
+  },
+  {
+    "name": "Tongchuan",
+    "value": 0.153869856578924
+  },
+  {
+    "name": " Tongling",
+    "value": 0.0830993442373763
+  },
+  {
+    "name": "Yinchuan",
+    "value": -0.141170772353464
+  },
+  {
+    "name": "Xilingol League",
+    "value": 0.258782637127576
+  },
+  {
+    "name": "Jinzhou",
+    "value": -0.0418325255814186
+  },
+  {
+    "name": "Zhenjiang",
+    "value": -0.0405959037253119
+  },
+  {
+    "name": "Changchun",
+    "value": 0.112335927322245
+  },
+  {
+    "name": "Changsha",
+    "value": 0.206404833059652
+  },
+  {
+    "name": "Changzhi",
+    "value": -0.219786171471021
+  },
+  {
+    "name": "Fuxin",
+    "value": 0.372851123327646
+  },
+  {
+    "name": "Fuyang",
+    "value": 0.011422906795877
+  },
+  {
+    "name": "Fangchenggang",
+    "value": 0.0246926994964104
+  },
+  {
+    "name": "Yangjiang",
+    "value": 0.173243598991256
+  },
+  {
+    "name": "Yangquan",
+    "value": -0.21995389067686
+  },
+  {
+    "name": "Aksu Prefecture",
+    "value": 0.0561389519571533
+  },
+  {
+    "name": "Altay Prefecture",
+    "value": -0.0541584257773549
+  },
+  {
+    "name": "Aba Tibetan and Qiang Autonomous Prefecture",
+    "value": -0.210589568350814
+  },
+  {
+    "name": "Alxa League",
+    "value": 0.0695942704488667
+  },
+  {
+    "name": "Ngari Prefecture",
+    "value": -0.0781742941988356
+  },
+  {
+    "name": "Longnan",
+    "value": 0.300265428942788
+  },
+  {
+    "name": "Suizhou",
+    "value": 0.182121426493758
+  },
+  {
+    "name": "Ya'an",
+    "value": 0.179826109003674
+  },
+  {
+    "name": "Qingdao",
+    "value": -0.034077733662861
+  },
+  {
+    "name": "Anshan",
+    "value": -0.138244468429465
+  },
+  {
+    "name": "Shaoguan",
+    "value": -0.216035281949653
+  },
+  {
+    "name": "Ma'anshan",
+    "value": 0.109792157620796
+  },
+  {
+    "name": "Zhumadian",
+    "value": 0.194850905691727
+  },
+  {
+    "name": "Jixi",
+    "value": 0.0654901755353387
+  },
+  {
+    "name": "Hebi",
+    "value": 0.0764889636808229
+  },
+  {
+    "name": "Hegang",
+    "value": 0.0355494734510364
+  },
+  {
+    "name": "Yingtan",
+    "value": -0.256673384888692
+  },
+  {
+    "name": "Huanggang",
+    "value": 0.0811189739569432
+  },
+  {
+    "name": "Huangnan Tibetan Autonomous Prefecture",
+    "value": -0.28472378676535
+  },
+  {
+    "name": "Huangshan",
+    "value": -0.0688272671137329
+  },
+  {
+    "name": "Huangshi",
+    "value": 0.0892930412282151
+  },
+  {
+    "name": "Heihe",
+    "value": 0.0586034841152759
+  },
+  {
+    "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+    "value": -0.286190863929764
+  },
+  {
+    "name": " Qiannan Buyei and Miao Autonomous Prefecture",
+    "value": -0.462302552474949
+  },
+  {
+    "name": "Qianxinan Buyei and Miao Autonomous Prefecture",
+    "value": -0.21190057347646
+  },
+  {
+    "name": "Qiqihar",
+    "value": 0.077408654412184
+  },
+  {
+    "name": "Longyan",
+    "value": -0.412238303952459
+  }
+]
